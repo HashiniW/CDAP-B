@@ -1,0 +1,7502 @@
+{
+    "0": {
+        "date": "2001-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1": {
+        "date": "2001-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "2": {
+        "date": "2001-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "3": {
+        "date": "2001-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "4": {
+        "date": "2001-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "5": {
+        "date": "2001-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "6": {
+        "date": "2001-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "7": {
+        "date": "2001-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "8": {
+        "date": "2001-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "9": {
+        "date": "2001-02-10",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "10": {
+        "date": "2001-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "11": {
+        "date": "2001-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "12": {
+        "date": "2001-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "13": {
+        "date": "2001-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "14": {
+        "date": "2001-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "15": {
+        "date": "2001-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "16": {
+        "date": "2001-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "17": {
+        "date": "2001-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "18": {
+        "date": "2001-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "19": {
+        "date": "2001-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "20": {
+        "date": "2001-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "21": {
+        "date": "2001-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "22": {
+        "date": "2001-04-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "23": {
+        "date": "2001-04-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "24": {
+        "date": "2001-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "25": {
+        "date": "2001-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "26": {
+        "date": "2001-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "27": {
+        "date": "2001-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "28": {
+        "date": "2001-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "29": {
+        "date": "2001-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "30": {
+        "date": "2001-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "31": {
+        "date": "2001-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "32": {
+        "date": "2001-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "33": {
+        "date": "2001-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "34": {
+        "date": "2001-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "35": {
+        "date": "2001-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "36": {
+        "date": "2001-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "37": {
+        "date": "2001-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "38": {
+        "date": "2001-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "39": {
+        "date": "2001-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "40": {
+        "date": "2001-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "41": {
+        "date": "2001-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "42": {
+        "date": "2001-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "43": {
+        "date": "2001-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "44": {
+        "date": "2001-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "30"
+    },
+    "45": {
+        "date": "2001-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "46": {
+        "date": "2001-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "47": {
+        "date": "2001-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "48": {
+        "date": "2001-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "49": {
+        "date": "2001-08-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "50": {
+        "date": "2001-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "51": {
+        "date": "2001-08-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "52": {
+        "date": "2001-08-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "53": {
+        "date": "2001-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "54": {
+        "date": "2001-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "55": {
+        "date": "2001-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "56": {
+        "date": "2001-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "57": {
+        "date": "2001-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "58": {
+        "date": "2001-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "59": {
+        "date": "2001-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "60": {
+        "date": "2001-10-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "61": {
+        "date": "2001-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "62": {
+        "date": "2001-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "63": {
+        "date": "2001-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "64": {
+        "date": "2001-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "65": {
+        "date": "2001-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "66": {
+        "date": "2001-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "67": {
+        "date": "2001-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "68": {
+        "date": "2001-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "69": {
+        "date": "2001-10-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "70": {
+        "date": "2001-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "71": {
+        "date": "2001-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "72": {
+        "date": "2001-11-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "73": {
+        "date": "2001-11-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "74": {
+        "date": "2001-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "75": {
+        "date": "2001-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "53"
+    },
+    "76": {
+        "date": "2001-11-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "77": {
+        "date": "2001-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "78": {
+        "date": "2001-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "79": {
+        "date": "2001-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "80": {
+        "date": "2001-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "81": {
+        "date": "2001-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "82": {
+        "date": "2001-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "83": {
+        "date": "2001-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "84": {
+        "date": "2002-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "85": {
+        "date": "2002-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "86": {
+        "date": "2002-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "87": {
+        "date": "2002-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "88": {
+        "date": "2002-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "89": {
+        "date": "2002-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "90": {
+        "date": "2002-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "91": {
+        "date": "2002-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "92": {
+        "date": "2002-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "93": {
+        "date": "2002-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "94": {
+        "date": "2002-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "95": {
+        "date": "2002-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "96": {
+        "date": "2002-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "97": {
+        "date": "2002-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "98": {
+        "date": "2002-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "99": {
+        "date": "2002-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "100": {
+        "date": "2002-03-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "101": {
+        "date": "2002-03-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "102": {
+        "date": "2002-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "103": {
+        "date": "2002-03-10",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "104": {
+        "date": "2002-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "105": {
+        "date": "2002-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "106": {
+        "date": "2002-04-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "107": {
+        "date": "2002-04-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "108": {
+        "date": "2002-04-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "109": {
+        "date": "2002-04-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "110": {
+        "date": "2002-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "111": {
+        "date": "2002-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "112": {
+        "date": "2002-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "113": {
+        "date": "2002-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "114": {
+        "date": "2002-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "115": {
+        "date": "2002-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "116": {
+        "date": "2002-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "117": {
+        "date": "2002-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "118": {
+        "date": "2002-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "119": {
+        "date": "2002-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "120": {
+        "date": "2002-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "121": {
+        "date": "2002-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "122": {
+        "date": "2002-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "123": {
+        "date": "2002-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "124": {
+        "date": "2002-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "125": {
+        "date": "2002-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "126": {
+        "date": "2002-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "127": {
+        "date": "2002-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "128": {
+        "date": "2002-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "129": {
+        "date": "2002-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "30"
+    },
+    "130": {
+        "date": "2002-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "131": {
+        "date": "2002-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "132": {
+        "date": "2002-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "133": {
+        "date": "2002-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "134": {
+        "date": "2002-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "135": {
+        "date": "2002-08-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "136": {
+        "date": "2002-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "137": {
+        "date": "2002-08-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "138": {
+        "date": "2002-08-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "139": {
+        "date": "2002-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "140": {
+        "date": "2002-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "141": {
+        "date": "2002-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "142": {
+        "date": "2002-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "143": {
+        "date": "2002-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "144": {
+        "date": "2002-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "145": {
+        "date": "2002-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "55"
+    },
+    "146": {
+        "date": "2002-09-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "147": {
+        "date": "2002-09-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "148": {
+        "date": "2002-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "149": {
+        "date": "2002-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "150": {
+        "date": "2002-11-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "151": {
+        "date": "2002-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "152": {
+        "date": "2002-11-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "153": {
+        "date": "2002-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "154": {
+        "date": "2002-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "155": {
+        "date": "2002-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "156": {
+        "date": "2002-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "157": {
+        "date": "2002-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "158": {
+        "date": "2002-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "159": {
+        "date": "2002-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "160": {
+        "date": "2002-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "161": {
+        "date": "2002-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "46"
+    },
+    "162": {
+        "date": "2002-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "163": {
+        "date": "2003-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "164": {
+        "date": "2003-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "165": {
+        "date": "2003-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "166": {
+        "date": "2003-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "167": {
+        "date": "2003-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "168": {
+        "date": "2003-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "169": {
+        "date": "2003-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "170": {
+        "date": "2003-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "171": {
+        "date": "2003-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "172": {
+        "date": "2003-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "173": {
+        "date": "2003-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "174": {
+        "date": "2003-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "175": {
+        "date": "2003-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "176": {
+        "date": "2003-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "177": {
+        "date": "2003-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "178": {
+        "date": "2003-03-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "179": {
+        "date": "2003-03-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "180": {
+        "date": "2003-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "181": {
+        "date": "2003-03-10",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "182": {
+        "date": "2003-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "183": {
+        "date": "2003-04-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "184": {
+        "date": "2003-04-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "185": {
+        "date": "2003-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "186": {
+        "date": "2003-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "187": {
+        "date": "2003-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "188": {
+        "date": "2003-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "189": {
+        "date": "2003-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "190": {
+        "date": "2003-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "191": {
+        "date": "2003-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "192": {
+        "date": "2003-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "193": {
+        "date": "2003-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "194": {
+        "date": "2003-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "195": {
+        "date": "2003-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "196": {
+        "date": "2003-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "197": {
+        "date": "2003-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "198": {
+        "date": "2003-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "199": {
+        "date": "2003-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "200": {
+        "date": "2003-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "201": {
+        "date": "2003-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "202": {
+        "date": "2003-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "203": {
+        "date": "2003-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "204": {
+        "date": "2003-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "205": {
+        "date": "2003-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "206": {
+        "date": "2003-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "30"
+    },
+    "207": {
+        "date": "2003-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "30"
+    },
+    "208": {
+        "date": "2003-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "209": {
+        "date": "2003-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "210": {
+        "date": "2003-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "211": {
+        "date": "2003-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "212": {
+        "date": "2003-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "213": {
+        "date": "2003-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "214": {
+        "date": "2003-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "215": {
+        "date": "2003-08-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "216": {
+        "date": "2003-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "217": {
+        "date": "2003-08-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "218": {
+        "date": "2003-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "219": {
+        "date": "2003-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "220": {
+        "date": "2003-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "221": {
+        "date": "2003-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "222": {
+        "date": "2003-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "223": {
+        "date": "2003-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "224": {
+        "date": "2003-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "56"
+    },
+    "225": {
+        "date": "2003-09-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "226": {
+        "date": "2003-09-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "227": {
+        "date": "2003-10-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "228": {
+        "date": "2003-10-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "229": {
+        "date": "2003-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "230": {
+        "date": "2003-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "231": {
+        "date": "2003-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "232": {
+        "date": "2003-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "233": {
+        "date": "2003-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "44"
+    },
+    "234": {
+        "date": "2003-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "235": {
+        "date": "2003-10-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "236": {
+        "date": "2003-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "237": {
+        "date": "2003-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "238": {
+        "date": "2003-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "239": {
+        "date": "2003-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "240": {
+        "date": "2003-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "241": {
+        "date": "2003-11-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "242": {
+        "date": "2003-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "243": {
+        "date": "2003-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "244": {
+        "date": "2003-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "245": {
+        "date": "2003-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "246": {
+        "date": "2003-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "247": {
+        "date": "2003-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "248": {
+        "date": "2003-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "249": {
+        "date": "2003-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "250": {
+        "date": "2003-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "46"
+    },
+    "251": {
+        "date": "2003-12-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "252": {
+        "date": "2003-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "253": {
+        "date": "2004-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "254": {
+        "date": "2004-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "255": {
+        "date": "2004-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "256": {
+        "date": "2004-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "257": {
+        "date": "2004-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "258": {
+        "date": "2004-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "259": {
+        "date": "2004-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "260": {
+        "date": "2004-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "261": {
+        "date": "2004-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "262": {
+        "date": "2004-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "263": {
+        "date": "2004-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "264": {
+        "date": "2004-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "265": {
+        "date": "2004-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "266": {
+        "date": "2004-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "267": {
+        "date": "2004-03-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "268": {
+        "date": "2004-03-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "269": {
+        "date": "2004-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "270": {
+        "date": "2004-03-10",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "271": {
+        "date": "2004-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "272": {
+        "date": "2004-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "273": {
+        "date": "2004-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "274": {
+        "date": "2004-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "275": {
+        "date": "2004-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "276": {
+        "date": "2004-04-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "277": {
+        "date": "2004-04-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "278": {
+        "date": "2004-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "279": {
+        "date": "2004-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "280": {
+        "date": "2004-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "281": {
+        "date": "2004-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "282": {
+        "date": "2004-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "283": {
+        "date": "2004-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "284": {
+        "date": "2004-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "285": {
+        "date": "2004-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "286": {
+        "date": "2004-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "287": {
+        "date": "2004-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "288": {
+        "date": "2004-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "289": {
+        "date": "2004-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "290": {
+        "date": "2004-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "291": {
+        "date": "2004-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "292": {
+        "date": "2004-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "293": {
+        "date": "2004-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "294": {
+        "date": "2004-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "295": {
+        "date": "2004-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "296": {
+        "date": "2004-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "297": {
+        "date": "2004-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "298": {
+        "date": "2004-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "299": {
+        "date": "2004-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "300": {
+        "date": "2004-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "30"
+    },
+    "301": {
+        "date": "2004-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "302": {
+        "date": "2004-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "303": {
+        "date": "2004-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "304": {
+        "date": "2004-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "305": {
+        "date": "2004-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "306": {
+        "date": "2004-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "307": {
+        "date": "2004-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "308": {
+        "date": "2004-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "309": {
+        "date": "2004-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "310": {
+        "date": "2004-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "311": {
+        "date": "2004-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "312": {
+        "date": "2004-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "313": {
+        "date": "2004-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "56"
+    },
+    "314": {
+        "date": "2004-09-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "37"
+    },
+    "315": {
+        "date": "2004-09-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "316": {
+        "date": "2004-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "317": {
+        "date": "2004-10-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "318": {
+        "date": "2004-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "319": {
+        "date": "2004-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "320": {
+        "date": "2004-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "321": {
+        "date": "2004-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "44"
+    },
+    "322": {
+        "date": "2004-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "323": {
+        "date": "2004-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "324": {
+        "date": "2004-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "325": {
+        "date": "2004-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "326": {
+        "date": "2004-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "327": {
+        "date": "2004-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "328": {
+        "date": "2004-11-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "329": {
+        "date": "2004-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "52"
+    },
+    "330": {
+        "date": "2004-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "331": {
+        "date": "2004-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "332": {
+        "date": "2004-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "333": {
+        "date": "2004-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "334": {
+        "date": "2004-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "335": {
+        "date": "2004-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "336": {
+        "date": "2004-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "337": {
+        "date": "2004-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "338": {
+        "date": "2005-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "339": {
+        "date": "2005-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "340": {
+        "date": "2005-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "341": {
+        "date": "2005-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "342": {
+        "date": "2005-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "343": {
+        "date": "2005-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "344": {
+        "date": "2005-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "345": {
+        "date": "2005-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "346": {
+        "date": "2005-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "347": {
+        "date": "2005-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "348": {
+        "date": "2005-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "349": {
+        "date": "2005-03-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "350": {
+        "date": "2005-03-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "351": {
+        "date": "2005-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "352": {
+        "date": "2005-03-10",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "353": {
+        "date": "2005-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "354": {
+        "date": "2005-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "355": {
+        "date": "2005-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "356": {
+        "date": "2005-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "357": {
+        "date": "2005-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "358": {
+        "date": "2005-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "359": {
+        "date": "2005-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "360": {
+        "date": "2005-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "361": {
+        "date": "2005-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "362": {
+        "date": "2005-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "363": {
+        "date": "2005-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "364": {
+        "date": "2005-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "365": {
+        "date": "2005-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "366": {
+        "date": "2005-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "367": {
+        "date": "2005-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "368": {
+        "date": "2005-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "369": {
+        "date": "2005-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "370": {
+        "date": "2005-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "371": {
+        "date": "2005-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "372": {
+        "date": "2005-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "373": {
+        "date": "2005-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "374": {
+        "date": "2005-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "375": {
+        "date": "2005-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "376": {
+        "date": "2005-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "377": {
+        "date": "2005-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "378": {
+        "date": "2005-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "379": {
+        "date": "2005-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "380": {
+        "date": "2005-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "381": {
+        "date": "2005-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "382": {
+        "date": "2005-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "383": {
+        "date": "2005-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "384": {
+        "date": "2005-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "385": {
+        "date": "2005-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "386": {
+        "date": "2005-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "387": {
+        "date": "2005-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "388": {
+        "date": "2005-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "389": {
+        "date": "2005-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "390": {
+        "date": "2005-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "391": {
+        "date": "2005-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "392": {
+        "date": "2005-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "393": {
+        "date": "2005-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "394": {
+        "date": "2005-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "395": {
+        "date": "2005-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "55"
+    },
+    "396": {
+        "date": "2005-09-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "41"
+    },
+    "397": {
+        "date": "2005-09-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "398": {
+        "date": "2005-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "399": {
+        "date": "2005-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "400": {
+        "date": "2005-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "401": {
+        "date": "2005-10-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "402": {
+        "date": "2005-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "403": {
+        "date": "2005-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "404": {
+        "date": "2005-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "405": {
+        "date": "2005-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "406": {
+        "date": "2005-11-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "407": {
+        "date": "2005-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "408": {
+        "date": "2005-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "409": {
+        "date": "2005-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "410": {
+        "date": "2005-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "411": {
+        "date": "2005-11-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "412": {
+        "date": "2005-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "413": {
+        "date": "2005-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "52"
+    },
+    "414": {
+        "date": "2005-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "415": {
+        "date": "2005-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "416": {
+        "date": "2005-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "417": {
+        "date": "2005-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "418": {
+        "date": "2005-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "419": {
+        "date": "2005-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "420": {
+        "date": "2005-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "421": {
+        "date": "2005-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "46"
+    },
+    "422": {
+        "date": "2005-12-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "423": {
+        "date": "2005-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "424": {
+        "date": "2006-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "425": {
+        "date": "2006-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "426": {
+        "date": "2006-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "427": {
+        "date": "2006-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "428": {
+        "date": "2006-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "429": {
+        "date": "2006-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "430": {
+        "date": "2006-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "431": {
+        "date": "2006-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "432": {
+        "date": "2006-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "433": {
+        "date": "2006-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "434": {
+        "date": "2006-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "435": {
+        "date": "2006-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "436": {
+        "date": "2006-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "437": {
+        "date": "2006-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "438": {
+        "date": "2006-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "439": {
+        "date": "2006-03-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "440": {
+        "date": "2006-03-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "441": {
+        "date": "2006-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "442": {
+        "date": "2006-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "443": {
+        "date": "2006-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "444": {
+        "date": "2006-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "445": {
+        "date": "2006-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "446": {
+        "date": "2006-04-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "447": {
+        "date": "2006-04-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "448": {
+        "date": "2006-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "449": {
+        "date": "2006-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "450": {
+        "date": "2006-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "451": {
+        "date": "2006-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "452": {
+        "date": "2006-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "453": {
+        "date": "2006-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "454": {
+        "date": "2006-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "455": {
+        "date": "2006-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "456": {
+        "date": "2006-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "457": {
+        "date": "2006-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "458": {
+        "date": "2006-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "459": {
+        "date": "2006-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "460": {
+        "date": "2006-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "461": {
+        "date": "2006-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "462": {
+        "date": "2006-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "463": {
+        "date": "2006-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "464": {
+        "date": "2006-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "465": {
+        "date": "2006-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "466": {
+        "date": "2006-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "467": {
+        "date": "2006-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "468": {
+        "date": "2006-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "469": {
+        "date": "2006-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "470": {
+        "date": "2006-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "471": {
+        "date": "2006-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "472": {
+        "date": "2006-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "473": {
+        "date": "2006-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "474": {
+        "date": "2006-08-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "475": {
+        "date": "2006-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "476": {
+        "date": "2006-08-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "477": {
+        "date": "2006-08-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "45"
+    },
+    "478": {
+        "date": "2006-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "479": {
+        "date": "2006-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "480": {
+        "date": "2006-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "481": {
+        "date": "2006-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "482": {
+        "date": "2006-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "483": {
+        "date": "2006-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "484": {
+        "date": "2006-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "485": {
+        "date": "2006-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "486": {
+        "date": "2006-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "55"
+    },
+    "487": {
+        "date": "2006-09-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "41"
+    },
+    "488": {
+        "date": "2006-09-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "489": {
+        "date": "2006-10-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "490": {
+        "date": "2006-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "491": {
+        "date": "2006-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "492": {
+        "date": "2006-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "493": {
+        "date": "2006-11-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "494": {
+        "date": "2006-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "495": {
+        "date": "2006-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "496": {
+        "date": "2006-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "497": {
+        "date": "2006-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "498": {
+        "date": "2006-11-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "499": {
+        "date": "2006-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "500": {
+        "date": "2006-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "52"
+    },
+    "501": {
+        "date": "2006-11-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "502": {
+        "date": "2006-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "503": {
+        "date": "2006-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "504": {
+        "date": "2006-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "505": {
+        "date": "2006-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "506": {
+        "date": "2006-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "507": {
+        "date": "2006-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "41"
+    },
+    "508": {
+        "date": "2006-12-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "509": {
+        "date": "2006-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "510": {
+        "date": "2007-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "511": {
+        "date": "2007-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "512": {
+        "date": "2007-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "513": {
+        "date": "2007-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "514": {
+        "date": "2007-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "515": {
+        "date": "2007-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "516": {
+        "date": "2007-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "517": {
+        "date": "2007-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "518": {
+        "date": "2007-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "519": {
+        "date": "2007-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "520": {
+        "date": "2007-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "521": {
+        "date": "2007-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "522": {
+        "date": "2007-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "523": {
+        "date": "2007-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "524": {
+        "date": "2007-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "525": {
+        "date": "2007-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "526": {
+        "date": "2007-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "527": {
+        "date": "2007-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "528": {
+        "date": "2007-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "529": {
+        "date": "2007-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "530": {
+        "date": "2007-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "531": {
+        "date": "2007-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "532": {
+        "date": "2007-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "533": {
+        "date": "2007-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "534": {
+        "date": "2007-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "535": {
+        "date": "2007-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "536": {
+        "date": "2007-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "537": {
+        "date": "2007-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "538": {
+        "date": "2007-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "539": {
+        "date": "2007-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "540": {
+        "date": "2007-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "541": {
+        "date": "2007-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "542": {
+        "date": "2007-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "543": {
+        "date": "2007-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "544": {
+        "date": "2007-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "545": {
+        "date": "2007-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "546": {
+        "date": "2007-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "547": {
+        "date": "2007-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "548": {
+        "date": "2007-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "549": {
+        "date": "2007-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "550": {
+        "date": "2007-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "551": {
+        "date": "2007-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "552": {
+        "date": "2007-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "553": {
+        "date": "2007-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "554": {
+        "date": "2007-08-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "555": {
+        "date": "2007-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "556": {
+        "date": "2007-08-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "557": {
+        "date": "2007-08-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "45"
+    },
+    "558": {
+        "date": "2007-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "559": {
+        "date": "2007-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "560": {
+        "date": "2007-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "561": {
+        "date": "2007-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "562": {
+        "date": "2007-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "563": {
+        "date": "2007-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "564": {
+        "date": "2007-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "565": {
+        "date": "2007-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "566": {
+        "date": "2007-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "567": {
+        "date": "2007-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "568": {
+        "date": "2007-10-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "569": {
+        "date": "2007-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "570": {
+        "date": "2007-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "571": {
+        "date": "2007-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "572": {
+        "date": "2007-10-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "573": {
+        "date": "2007-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "574": {
+        "date": "2007-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "575": {
+        "date": "2007-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "576": {
+        "date": "2007-10-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "577": {
+        "date": "2007-11-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "578": {
+        "date": "2007-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "579": {
+        "date": "2007-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "580": {
+        "date": "2007-11-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "581": {
+        "date": "2007-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "582": {
+        "date": "2007-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "53"
+    },
+    "583": {
+        "date": "2007-11-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "35"
+    },
+    "584": {
+        "date": "2007-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "585": {
+        "date": "2007-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "586": {
+        "date": "2007-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "587": {
+        "date": "2007-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "588": {
+        "date": "2007-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "589": {
+        "date": "2007-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "590": {
+        "date": "2007-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "591": {
+        "date": "2007-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "592": {
+        "date": "2007-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "593": {
+        "date": "2008-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "594": {
+        "date": "2008-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "595": {
+        "date": "2008-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "596": {
+        "date": "2008-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "597": {
+        "date": "2008-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "598": {
+        "date": "2008-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "599": {
+        "date": "2008-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "600": {
+        "date": "2008-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "601": {
+        "date": "2008-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "602": {
+        "date": "2008-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "603": {
+        "date": "2008-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "604": {
+        "date": "2008-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "605": {
+        "date": "2008-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "606": {
+        "date": "2008-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "607": {
+        "date": "2008-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "608": {
+        "date": "2008-03-10",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "609": {
+        "date": "2008-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "610": {
+        "date": "2008-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "611": {
+        "date": "2008-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "612": {
+        "date": "2008-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "613": {
+        "date": "2008-04-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "614": {
+        "date": "2008-04-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "615": {
+        "date": "2008-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "616": {
+        "date": "2008-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "617": {
+        "date": "2008-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "618": {
+        "date": "2008-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "619": {
+        "date": "2008-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "620": {
+        "date": "2008-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "621": {
+        "date": "2008-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "622": {
+        "date": "2008-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "623": {
+        "date": "2008-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "624": {
+        "date": "2008-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "625": {
+        "date": "2008-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "626": {
+        "date": "2008-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "627": {
+        "date": "2008-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "628": {
+        "date": "2008-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "629": {
+        "date": "2008-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "630": {
+        "date": "2008-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "631": {
+        "date": "2008-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "632": {
+        "date": "2008-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "633": {
+        "date": "2008-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "634": {
+        "date": "2008-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "635": {
+        "date": "2008-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "636": {
+        "date": "2008-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "637": {
+        "date": "2008-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "638": {
+        "date": "2008-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "639": {
+        "date": "2008-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "640": {
+        "date": "2008-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "641": {
+        "date": "2008-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "642": {
+        "date": "2008-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "643": {
+        "date": "2008-08-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "644": {
+        "date": "2008-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "645": {
+        "date": "2008-08-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "646": {
+        "date": "2008-08-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "45"
+    },
+    "647": {
+        "date": "2008-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "648": {
+        "date": "2008-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "649": {
+        "date": "2008-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "650": {
+        "date": "2008-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "651": {
+        "date": "2008-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "652": {
+        "date": "2008-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "653": {
+        "date": "2008-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "654": {
+        "date": "2008-10-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "655": {
+        "date": "2008-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "656": {
+        "date": "2008-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "657": {
+        "date": "2008-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "658": {
+        "date": "2008-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "659": {
+        "date": "2008-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "660": {
+        "date": "2008-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "661": {
+        "date": "2008-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "662": {
+        "date": "2008-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "663": {
+        "date": "2008-10-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "664": {
+        "date": "2008-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "665": {
+        "date": "2008-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "666": {
+        "date": "2008-11-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "667": {
+        "date": "2008-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "668": {
+        "date": "2008-11-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "669": {
+        "date": "2008-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "670": {
+        "date": "2008-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "53"
+    },
+    "671": {
+        "date": "2008-11-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "35"
+    },
+    "672": {
+        "date": "2008-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "673": {
+        "date": "2008-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "674": {
+        "date": "2008-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "675": {
+        "date": "2008-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "676": {
+        "date": "2008-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "677": {
+        "date": "2008-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "678": {
+        "date": "2008-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "679": {
+        "date": "2008-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "680": {
+        "date": "2009-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "681": {
+        "date": "2009-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "682": {
+        "date": "2009-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "683": {
+        "date": "2009-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "684": {
+        "date": "2009-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "685": {
+        "date": "2009-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "686": {
+        "date": "2009-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "687": {
+        "date": "2009-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "688": {
+        "date": "2009-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "689": {
+        "date": "2009-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "690": {
+        "date": "2009-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "691": {
+        "date": "2009-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "692": {
+        "date": "2009-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "693": {
+        "date": "2009-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "694": {
+        "date": "2009-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "695": {
+        "date": "2009-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "696": {
+        "date": "2009-03-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "697": {
+        "date": "2009-03-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "698": {
+        "date": "2009-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "699": {
+        "date": "2009-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "700": {
+        "date": "2009-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "701": {
+        "date": "2009-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "702": {
+        "date": "2009-04-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "703": {
+        "date": "2009-04-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "704": {
+        "date": "2009-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "705": {
+        "date": "2009-04-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "706": {
+        "date": "2009-04-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "707": {
+        "date": "2009-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "708": {
+        "date": "2009-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "709": {
+        "date": "2009-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "710": {
+        "date": "2009-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "711": {
+        "date": "2009-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "712": {
+        "date": "2009-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "713": {
+        "date": "2009-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "714": {
+        "date": "2009-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "715": {
+        "date": "2009-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "716": {
+        "date": "2009-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "717": {
+        "date": "2009-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "718": {
+        "date": "2009-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "719": {
+        "date": "2009-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "720": {
+        "date": "2009-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "721": {
+        "date": "2009-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "722": {
+        "date": "2009-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "723": {
+        "date": "2009-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "724": {
+        "date": "2009-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "725": {
+        "date": "2009-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "36"
+    },
+    "726": {
+        "date": "2009-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "727": {
+        "date": "2009-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "728": {
+        "date": "2009-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "729": {
+        "date": "2009-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "730": {
+        "date": "2009-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "731": {
+        "date": "2009-08-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "732": {
+        "date": "2009-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "733": {
+        "date": "2009-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "734": {
+        "date": "2009-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "735": {
+        "date": "2009-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "736": {
+        "date": "2009-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "737": {
+        "date": "2009-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "738": {
+        "date": "2009-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "52"
+    },
+    "739": {
+        "date": "2009-09-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "740": {
+        "date": "2009-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "741": {
+        "date": "2009-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "742": {
+        "date": "2009-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "743": {
+        "date": "2009-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "744": {
+        "date": "2009-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "745": {
+        "date": "2009-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "45"
+    },
+    "746": {
+        "date": "2009-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "747": {
+        "date": "2009-10-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "748": {
+        "date": "2009-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "749": {
+        "date": "2009-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "750": {
+        "date": "2009-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "751": {
+        "date": "2009-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "752": {
+        "date": "2009-11-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "753": {
+        "date": "2009-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "754": {
+        "date": "2009-11-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "755": {
+        "date": "2009-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "756": {
+        "date": "2009-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "757": {
+        "date": "2009-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "758": {
+        "date": "2009-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "759": {
+        "date": "2009-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "760": {
+        "date": "2009-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "761": {
+        "date": "2009-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "36"
+    },
+    "762": {
+        "date": "2009-12-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "763": {
+        "date": "2009-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "764": {
+        "date": "2010-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "765": {
+        "date": "2010-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "766": {
+        "date": "2010-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "767": {
+        "date": "2010-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "768": {
+        "date": "2010-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "769": {
+        "date": "2010-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "770": {
+        "date": "2010-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "771": {
+        "date": "2010-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "772": {
+        "date": "2010-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "773": {
+        "date": "2010-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "774": {
+        "date": "2010-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "775": {
+        "date": "2010-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "776": {
+        "date": "2010-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "777": {
+        "date": "2010-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "778": {
+        "date": "2010-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "779": {
+        "date": "2010-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "780": {
+        "date": "2010-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "781": {
+        "date": "2010-04-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "782": {
+        "date": "2010-04-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "783": {
+        "date": "2010-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "784": {
+        "date": "2010-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "785": {
+        "date": "2010-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "786": {
+        "date": "2010-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "787": {
+        "date": "2010-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "788": {
+        "date": "2010-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "789": {
+        "date": "2010-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "790": {
+        "date": "2010-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "791": {
+        "date": "2010-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "792": {
+        "date": "2010-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "793": {
+        "date": "2010-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "794": {
+        "date": "2010-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "795": {
+        "date": "2010-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "796": {
+        "date": "2010-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "797": {
+        "date": "2010-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "798": {
+        "date": "2010-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "799": {
+        "date": "2010-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "800": {
+        "date": "2010-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "801": {
+        "date": "2010-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "802": {
+        "date": "2010-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "803": {
+        "date": "2010-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "804": {
+        "date": "2010-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "805": {
+        "date": "2010-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "36"
+    },
+    "806": {
+        "date": "2010-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "807": {
+        "date": "2010-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "808": {
+        "date": "2010-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "809": {
+        "date": "2010-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "810": {
+        "date": "2010-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "811": {
+        "date": "2010-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "812": {
+        "date": "2010-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "813": {
+        "date": "2010-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "814": {
+        "date": "2010-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "815": {
+        "date": "2010-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "816": {
+        "date": "2010-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "817": {
+        "date": "2010-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "818": {
+        "date": "2010-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "819": {
+        "date": "2010-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "52"
+    },
+    "820": {
+        "date": "2010-10-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "821": {
+        "date": "2010-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "822": {
+        "date": "2010-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "823": {
+        "date": "2010-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "824": {
+        "date": "2010-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "825": {
+        "date": "2010-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "45"
+    },
+    "826": {
+        "date": "2010-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "827": {
+        "date": "2010-10-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "828": {
+        "date": "2010-11-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "829": {
+        "date": "2010-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "830": {
+        "date": "2010-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "831": {
+        "date": "2010-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "832": {
+        "date": "2010-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "833": {
+        "date": "2010-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "834": {
+        "date": "2010-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "835": {
+        "date": "2010-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "836": {
+        "date": "2010-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "837": {
+        "date": "2010-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "838": {
+        "date": "2010-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "839": {
+        "date": "2010-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "840": {
+        "date": "2010-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "841": {
+        "date": "2010-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "36"
+    },
+    "842": {
+        "date": "2010-12-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "843": {
+        "date": "2010-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "844": {
+        "date": "2011-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "845": {
+        "date": "2011-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "846": {
+        "date": "2011-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "847": {
+        "date": "2011-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "848": {
+        "date": "2011-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "849": {
+        "date": "2011-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "850": {
+        "date": "2011-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "851": {
+        "date": "2011-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "852": {
+        "date": "2011-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "853": {
+        "date": "2011-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "854": {
+        "date": "2011-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "855": {
+        "date": "2011-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "856": {
+        "date": "2011-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "857": {
+        "date": "2011-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "858": {
+        "date": "2011-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "859": {
+        "date": "2011-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "860": {
+        "date": "2011-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "861": {
+        "date": "2011-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "862": {
+        "date": "2011-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "863": {
+        "date": "2011-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "864": {
+        "date": "2011-04-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "865": {
+        "date": "2011-04-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "866": {
+        "date": "2011-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "867": {
+        "date": "2011-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "868": {
+        "date": "2011-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "869": {
+        "date": "2011-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "870": {
+        "date": "2011-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "871": {
+        "date": "2011-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "872": {
+        "date": "2011-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "873": {
+        "date": "2011-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "874": {
+        "date": "2011-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "875": {
+        "date": "2011-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "876": {
+        "date": "2011-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "877": {
+        "date": "2011-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "878": {
+        "date": "2011-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "879": {
+        "date": "2011-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "880": {
+        "date": "2011-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "881": {
+        "date": "2011-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "882": {
+        "date": "2011-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "883": {
+        "date": "2011-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "884": {
+        "date": "2011-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "885": {
+        "date": "2011-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "886": {
+        "date": "2011-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "887": {
+        "date": "2011-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "37"
+    },
+    "888": {
+        "date": "2011-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "889": {
+        "date": "2011-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "890": {
+        "date": "2011-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "891": {
+        "date": "2011-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "892": {
+        "date": "2011-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "893": {
+        "date": "2011-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "894": {
+        "date": "2011-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "895": {
+        "date": "2011-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "896": {
+        "date": "2011-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "897": {
+        "date": "2011-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "898": {
+        "date": "2011-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "899": {
+        "date": "2011-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "900": {
+        "date": "2011-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "52"
+    },
+    "901": {
+        "date": "2011-09-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "36"
+    },
+    "902": {
+        "date": "2011-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "903": {
+        "date": "2011-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "904": {
+        "date": "2011-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "905": {
+        "date": "2011-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "906": {
+        "date": "2011-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "907": {
+        "date": "2011-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "45"
+    },
+    "908": {
+        "date": "2011-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "31"
+    },
+    "909": {
+        "date": "2011-10-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "910": {
+        "date": "2011-11-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "911": {
+        "date": "2011-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "912": {
+        "date": "2011-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "913": {
+        "date": "2011-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "914": {
+        "date": "2011-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "915": {
+        "date": "2011-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "916": {
+        "date": "2011-11-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "917": {
+        "date": "2011-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "54"
+    },
+    "918": {
+        "date": "2011-11-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "35"
+    },
+    "919": {
+        "date": "2011-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "920": {
+        "date": "2011-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "921": {
+        "date": "2011-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "922": {
+        "date": "2011-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "923": {
+        "date": "2011-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "924": {
+        "date": "2011-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "925": {
+        "date": "2011-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "926": {
+        "date": "2011-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "927": {
+        "date": "2011-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "36"
+    },
+    "928": {
+        "date": "2011-12-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "929": {
+        "date": "2011-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "930": {
+        "date": "2012-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "931": {
+        "date": "2012-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "932": {
+        "date": "2012-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "933": {
+        "date": "2012-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "934": {
+        "date": "2012-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "935": {
+        "date": "2012-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "936": {
+        "date": "2012-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "937": {
+        "date": "2012-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "938": {
+        "date": "2012-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "939": {
+        "date": "2012-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "940": {
+        "date": "2012-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "941": {
+        "date": "2012-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "942": {
+        "date": "2012-03-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "943": {
+        "date": "2012-03-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "944": {
+        "date": "2012-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "945": {
+        "date": "2012-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "946": {
+        "date": "2012-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "947": {
+        "date": "2012-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "948": {
+        "date": "2012-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "949": {
+        "date": "2012-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "950": {
+        "date": "2012-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "951": {
+        "date": "2012-04-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "952": {
+        "date": "2012-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "953": {
+        "date": "2012-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "954": {
+        "date": "2012-04-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "955": {
+        "date": "2012-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "956": {
+        "date": "2012-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "957": {
+        "date": "2012-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "958": {
+        "date": "2012-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "959": {
+        "date": "2012-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "960": {
+        "date": "2012-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "961": {
+        "date": "2012-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "962": {
+        "date": "2012-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "963": {
+        "date": "2012-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "964": {
+        "date": "2012-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "965": {
+        "date": "2012-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "966": {
+        "date": "2012-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "967": {
+        "date": "2012-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "968": {
+        "date": "2012-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "969": {
+        "date": "2012-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "970": {
+        "date": "2012-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "971": {
+        "date": "2012-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "972": {
+        "date": "2012-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "37"
+    },
+    "973": {
+        "date": "2012-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "974": {
+        "date": "2012-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "975": {
+        "date": "2012-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "976": {
+        "date": "2012-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "977": {
+        "date": "2012-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "978": {
+        "date": "2012-08-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "979": {
+        "date": "2012-08-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "980": {
+        "date": "2012-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "42"
+    },
+    "981": {
+        "date": "2012-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "982": {
+        "date": "2012-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "983": {
+        "date": "2012-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "984": {
+        "date": "2012-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "985": {
+        "date": "2012-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "986": {
+        "date": "2012-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "987": {
+        "date": "2012-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "51"
+    },
+    "988": {
+        "date": "2012-09-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "36"
+    },
+    "989": {
+        "date": "2012-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "990": {
+        "date": "2012-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "991": {
+        "date": "2012-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "992": {
+        "date": "2012-10-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "993": {
+        "date": "2012-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "994": {
+        "date": "2012-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "995": {
+        "date": "2012-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "996": {
+        "date": "2012-10-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "997": {
+        "date": "2012-11-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "998": {
+        "date": "2012-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "999": {
+        "date": "2012-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "1000": {
+        "date": "2012-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "1001": {
+        "date": "2012-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1002": {
+        "date": "2012-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1003": {
+        "date": "2012-11-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1004": {
+        "date": "2012-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1005": {
+        "date": "2012-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "55"
+    },
+    "1006": {
+        "date": "2012-11-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "35"
+    },
+    "1007": {
+        "date": "2012-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "1008": {
+        "date": "2012-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1009": {
+        "date": "2012-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1010": {
+        "date": "2012-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1011": {
+        "date": "2012-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "1012": {
+        "date": "2012-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1013": {
+        "date": "2012-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1014": {
+        "date": "2012-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1015": {
+        "date": "2012-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "35"
+    },
+    "1016": {
+        "date": "2012-12-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "1017": {
+        "date": "2012-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1018": {
+        "date": "2013-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1019": {
+        "date": "2013-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1020": {
+        "date": "2013-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1021": {
+        "date": "2013-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "1022": {
+        "date": "2013-01-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1023": {
+        "date": "2013-01-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1024": {
+        "date": "2013-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1025": {
+        "date": "2013-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1026": {
+        "date": "2013-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1027": {
+        "date": "2013-02-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1028": {
+        "date": "2013-02-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1029": {
+        "date": "2013-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1030": {
+        "date": "2013-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "1031": {
+        "date": "2013-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1032": {
+        "date": "2013-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1033": {
+        "date": "2013-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "1034": {
+        "date": "2013-03-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "1035": {
+        "date": "2013-03-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1036": {
+        "date": "2013-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1037": {
+        "date": "2013-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "1038": {
+        "date": "2013-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1039": {
+        "date": "2013-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "1040": {
+        "date": "2013-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "1041": {
+        "date": "2013-04-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "1042": {
+        "date": "2013-04-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1043": {
+        "date": "2013-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "1044": {
+        "date": "2013-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1045": {
+        "date": "2013-04-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1046": {
+        "date": "2013-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "1047": {
+        "date": "2013-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1048": {
+        "date": "2013-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1049": {
+        "date": "2013-05-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1050": {
+        "date": "2013-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1051": {
+        "date": "2013-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1052": {
+        "date": "2013-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "1053": {
+        "date": "2013-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1054": {
+        "date": "2013-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "1055": {
+        "date": "2013-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "1056": {
+        "date": "2013-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1057": {
+        "date": "2013-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "1058": {
+        "date": "2013-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1059": {
+        "date": "2013-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1060": {
+        "date": "2013-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1061": {
+        "date": "2013-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1062": {
+        "date": "2013-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "1063": {
+        "date": "2013-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1064": {
+        "date": "2013-07-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "1065": {
+        "date": "2013-07-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1066": {
+        "date": "2013-07-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1067": {
+        "date": "2013-08-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1068": {
+        "date": "2013-08-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "1069": {
+        "date": "2013-08-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "1070": {
+        "date": "2013-08-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "1071": {
+        "date": "2013-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1072": {
+        "date": "2013-08-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1073": {
+        "date": "2013-08-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "48"
+    },
+    "1074": {
+        "date": "2013-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "48"
+    },
+    "1075": {
+        "date": "2013-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "1076": {
+        "date": "2013-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "1077": {
+        "date": "2013-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "1078": {
+        "date": "2013-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1079": {
+        "date": "2013-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "1080": {
+        "date": "2013-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "1081": {
+        "date": "2013-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1082": {
+        "date": "2013-09-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "51"
+    },
+    "1083": {
+        "date": "2013-09-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "36"
+    },
+    "1084": {
+        "date": "2013-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "1085": {
+        "date": "2013-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1086": {
+        "date": "2013-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "1087": {
+        "date": "2013-10-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "1088": {
+        "date": "2013-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "1089": {
+        "date": "2013-11-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "1090": {
+        "date": "2013-11-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "1091": {
+        "date": "2013-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "55"
+    },
+    "1092": {
+        "date": "2013-11-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "35"
+    },
+    "1093": {
+        "date": "2013-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "1094": {
+        "date": "2013-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "1095": {
+        "date": "2013-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1096": {
+        "date": "2013-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "1097": {
+        "date": "2013-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1098": {
+        "date": "2013-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1099": {
+        "date": "2013-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1100": {
+        "date": "2013-12-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "35"
+    },
+    "1101": {
+        "date": "2013-12-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "29"
+    },
+    "1102": {
+        "date": "2013-12-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1103": {
+        "date": "2014-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1104": {
+        "date": "2014-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1105": {
+        "date": "2014-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1106": {
+        "date": "2014-01-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "17"
+    },
+    "1107": {
+        "date": "2014-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1108": {
+        "date": "2014-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1109": {
+        "date": "2014-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "1110": {
+        "date": "2014-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1111": {
+        "date": "2014-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1112": {
+        "date": "2014-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "1113": {
+        "date": "2014-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1114": {
+        "date": "2014-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1115": {
+        "date": "2014-02-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "1116": {
+        "date": "2014-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1117": {
+        "date": "2014-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1118": {
+        "date": "2014-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "1119": {
+        "date": "2014-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "1120": {
+        "date": "2014-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1121": {
+        "date": "2014-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "1122": {
+        "date": "2014-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "1123": {
+        "date": "2014-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1124": {
+        "date": "2014-05-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1125": {
+        "date": "2014-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1126": {
+        "date": "2014-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "1127": {
+        "date": "2014-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1128": {
+        "date": "2014-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1129": {
+        "date": "2014-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "1130": {
+        "date": "2014-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1131": {
+        "date": "2014-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1132": {
+        "date": "2014-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "1133": {
+        "date": "2014-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1134": {
+        "date": "2014-06-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1135": {
+        "date": "2014-06-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "32"
+    },
+    "1136": {
+        "date": "2014-06-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1137": {
+        "date": "2014-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1138": {
+        "date": "2014-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1139": {
+        "date": "2014-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1140": {
+        "date": "2014-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1141": {
+        "date": "2014-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1142": {
+        "date": "2014-08-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "1143": {
+        "date": "2014-08-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1144": {
+        "date": "2014-08-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "48"
+    },
+    "1145": {
+        "date": "2014-08-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "1146": {
+        "date": "2014-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "1147": {
+        "date": "2014-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1148": {
+        "date": "2014-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "1149": {
+        "date": "2014-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "1150": {
+        "date": "2014-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "1151": {
+        "date": "2014-09-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "1152": {
+        "date": "2014-09-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "16"
+    },
+    "1153": {
+        "date": "2014-09-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1154": {
+        "date": "2014-10-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1155": {
+        "date": "2014-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1156": {
+        "date": "2014-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1157": {
+        "date": "2014-10-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "1158": {
+        "date": "2014-10-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1159": {
+        "date": "2014-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "47"
+    },
+    "1160": {
+        "date": "2014-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "31"
+    },
+    "1161": {
+        "date": "2014-11-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1162": {
+        "date": "2014-11-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1163": {
+        "date": "2014-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1164": {
+        "date": "2014-11-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1165": {
+        "date": "2014-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1166": {
+        "date": "2014-11-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1167": {
+        "date": "2014-11-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "55"
+    },
+    "1168": {
+        "date": "2014-11-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "35"
+    },
+    "1169": {
+        "date": "2014-11-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "28"
+    },
+    "1170": {
+        "date": "2014-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1171": {
+        "date": "2014-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1172": {
+        "date": "2014-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "1173": {
+        "date": "2014-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1174": {
+        "date": "2014-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1175": {
+        "date": "2014-12-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1176": {
+        "date": "2014-12-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1177": {
+        "date": "2014-12-12",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1178": {
+        "date": "2015-01-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1179": {
+        "date": "2015-01-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1180": {
+        "date": "2015-01-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1181": {
+        "date": "2015-01-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1182": {
+        "date": "2015-01-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1183": {
+        "date": "2015-01-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "1184": {
+        "date": "2015-01-14",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1185": {
+        "date": "2015-01-14",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1186": {
+        "date": "2015-01-14",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1187": {
+        "date": "2015-02-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1188": {
+        "date": "2015-02-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1189": {
+        "date": "2015-02-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1190": {
+        "date": "2015-02-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "13"
+    },
+    "1191": {
+        "date": "2015-02-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1192": {
+        "date": "2015-02-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1193": {
+        "date": "2015-03-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1194": {
+        "date": "2015-03-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1195": {
+        "date": "2015-03-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1196": {
+        "date": "2015-03-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "19"
+    },
+    "1197": {
+        "date": "2015-03-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1198": {
+        "date": "2015-03-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1199": {
+        "date": "2015-03-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "7"
+    },
+    "1200": {
+        "date": "2015-04-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "1201": {
+        "date": "2015-04-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1202": {
+        "date": "2015-04-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "14"
+    },
+    "1203": {
+        "date": "2015-04-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1204": {
+        "date": "2015-04-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1205": {
+        "date": "2015-04-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1206": {
+        "date": "2015-05-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "9"
+    },
+    "1207": {
+        "date": "2015-05-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1208": {
+        "date": "2015-05-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1209": {
+        "date": "2015-05-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "34"
+    },
+    "1210": {
+        "date": "2015-05-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1211": {
+        "date": "2015-05-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1212": {
+        "date": "2015-05-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "8"
+    },
+    "1213": {
+        "date": "2015-06-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "10"
+    },
+    "1214": {
+        "date": "2015-06-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1215": {
+        "date": "2015-06-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1216": {
+        "date": "2015-06-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1217": {
+        "date": "2015-06-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "1218": {
+        "date": "2015-06-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1219": {
+        "date": "2015-07-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1220": {
+        "date": "2015-07-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1221": {
+        "date": "2015-07-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "1222": {
+        "date": "2015-07-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1223": {
+        "date": "2015-07-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1224": {
+        "date": "2015-07-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "1225": {
+        "date": "2015-07-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "40"
+    },
+    "1226": {
+        "date": "2015-07-13",
+        "centre_name": "KOLKATA",
+        "commodity_name": "Cabbage",
+        "price": "24"
+    },
+    "1227": {
+        "date": "2015-09-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "1228": {
+        "date": "2015-09-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "22"
+    },
+    "1229": {
+        "date": "2015-09-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "1230": {
+        "date": "2015-09-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "27"
+    },
+    "1231": {
+        "date": "2015-09-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "23"
+    },
+    "1232": {
+        "date": "2015-10-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1233": {
+        "date": "2015-10-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1234": {
+        "date": "2015-10-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1235": {
+        "date": "2015-10-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "25"
+    },
+    "1236": {
+        "date": "2015-10-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1237": {
+        "date": "2015-10-12",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1238": {
+        "date": "2015-10-13",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "50"
+    },
+    "1239": {
+        "date": "2015-10-13",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "31"
+    },
+    "1240": {
+        "date": "2015-11-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "21"
+    },
+    "1241": {
+        "date": "2015-11-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1242": {
+        "date": "2015-11-12",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    },
+    "1243": {
+        "date": "2015-12-08",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1244": {
+        "date": "2015-12-08",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "18"
+    },
+    "1245": {
+        "date": "2015-12-09",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "12"
+    },
+    "1246": {
+        "date": "2015-12-09",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "20"
+    },
+    "1247": {
+        "date": "2015-12-10",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "26"
+    },
+    "1248": {
+        "date": "2015-12-11",
+        "centre_name": "DELHI",
+        "commodity_name": "Cabbage",
+        "price": "11"
+    },
+    "1249": {
+        "date": "2015-12-11",
+        "centre_name": "MUMBAI",
+        "commodity_name": "Cabbage",
+        "price": "15"
+    }
+}
